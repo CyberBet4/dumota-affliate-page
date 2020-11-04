@@ -1,0 +1,28 @@
+*{
+    outline: none !important;
+}
+section.big-banner{
+    padding: 10rem 5rem;
+    font-weight: bolder;
+}
+button.signupBtn{
+    left: 50%;
+    position: relative;
+    top: 0;
+}
+h3.display-4{
+    font-size: 3rem;
+}
+h3.display-4.big-text{
+    font-size: 2rem !important;
+    font-weight: bold;
+}
+a, a.btn-link{
+    font-weight: bold;
+    color: #ffc107;
+    text-decoration: none !important;
+    transition: all ease-in 0.3s;
+}
+a:hover, a.btn-link:hover{
+    color: black;
+}
